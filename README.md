@@ -23,7 +23,8 @@ Source:(https://drive.google.com/file/d/17bUJhEkQEDmoyLZ88TyS_Pi2IRcRMfAg/view)
 
 # 5. Features / Highlights
    
-# • Business Problem: Banks struggle to reduce customer churn rate without knowing which customer segments are most at risk or what behavioral patterns lead to attrition. Without proper churn segmentation, customer retention efforts lack focus and ROI.
+# • Business Problem: 
+Banks struggle to reduce customer churn rate without knowing which customer segments are most at risk or what behavioral patterns lead to attrition. Without proper churn segmentation, customer retention efforts lack focus and ROI.
 
 # •Goal of the Dashboard
 To provide a clear, segmented view of customer churn behavior, allowing business users to:
@@ -53,5 +54,8 @@ c)Created a foundation for predictive churn modeling using segmentation logic de
 d)Enabled C-level and product stakeholders to explore churn visually and filter by attributes for better strategic planning.
 
 #### 6.Snapshots of The Dashboard 
-(https://github.com/Krishancoder/Bank-s-Customer-Churn-Rate-Dashboard/blob/main/Snapshot%20of%20Dashboard%20Page%201.png)
+<img width="1432" height="810" alt="Snapshot of Dashboard Page 1" src="https://github.com/user-attachments/assets/f14e4c19-f2b4-4e7b-a395-d7bc1fc736e5" />
+
+<img width="1432" height="801" alt="Snapshot of the Dashboard Page 2" src="https://github.com/user-attachments/assets/aae36bde-7cc7-4155-b5ce-283a7d403ab0" />
+
 [Dashboard Preview](https://github.com/Krishancoder/Bank-s-Customer-Churn-Rate-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20Page%202.png)
