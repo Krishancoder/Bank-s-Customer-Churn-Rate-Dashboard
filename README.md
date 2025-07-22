@@ -20,6 +20,7 @@ The dashboard was built using the following tools and technologies:
 # 4. Data Source
 
 Source:(https://drive.google.com/file/d/17bUJhEkQEDmoyLZ88TyS_Pi2IRcRMfAg/view)
+Data on ~10,000 bank customers, including detailed attributes such as account balance, age group, gender, credit score, tenure, number of products held, credit card ownership, activity status, and country of residence. The dataset also includes a churn indicator flag for each customer and supports segmentation logic via account balance and credit score ranges for advanced behavioral analysis.
 
 # 5. Features / Highlights
    
@@ -58,4 +59,4 @@ d)Enabled C-level and product stakeholders to explore churn visually and filter 
 
 <img width="1432" height="801" alt="Snapshot of the Dashboard Page 2" src="https://github.com/user-attachments/assets/aae36bde-7cc7-4155-b5ce-283a7d403ab0" />
 
-[Dashboard Preview](https://github.com/Krishancoder/Bank-s-Customer-Churn-Rate-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20Page%202.png)
+
