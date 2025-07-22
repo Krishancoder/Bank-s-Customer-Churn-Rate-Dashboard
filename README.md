@@ -55,7 +55,7 @@ b)Empowered marketing and product teams to personalize offers based on customer 
 c)Created a foundation for predictive churn modeling using segmentation logic developed in this dashboard.
 d)Enabled C-level and product stakeholders to explore churn visually and filter by attributes for better strategic planning.
 
-#### 6.Snapshots of The Dashboard 
+# 6.Snapshots of The Dashboard 
 <img width="1432" height="810" alt="Snapshot of Dashboard Page 1" src="https://github.com/user-attachments/assets/f14e4c19-f2b4-4e7b-a395-d7bc1fc736e5" />
 
 <img width="1432" height="801" alt="Snapshot of the Dashboard Page 2" src="https://github.com/user-attachments/assets/aae36bde-7cc7-4155-b5ce-283a7d403ab0" />
