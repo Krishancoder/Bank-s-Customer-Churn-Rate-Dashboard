@@ -20,6 +20,7 @@ The dashboard was built using the following tools and technologies:
 # 4. Data Source
 
 Source:(https://drive.google.com/file/d/17bUJhEkQEDmoyLZ88TyS_Pi2IRcRMfAg/view)
+
 Data on ~10,000 bank customers, including detailed attributes such as account balance, age group, gender, credit score, tenure, number of products held, credit card ownership, activity status, and country of residence. The dataset also includes a churn indicator flag for each customer and supports segmentation logic via account balance and credit score ranges for advanced behavioral analysis.
 
 # 5. Features / Highlights
